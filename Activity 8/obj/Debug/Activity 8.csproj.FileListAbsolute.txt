@@ -1,0 +1,14 @@
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\bin\Debug\Activity 8.exe.config
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\bin\Debug\Activity 8.exe
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\bin\Debug\Activity 8.pdb
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\bin\Debug\System.ValueTuple.dll
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\bin\Debug\System.ValueTuple.xml
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\obj\Debug\Activity 8.csproj.AssemblyReference.cache
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\obj\Debug\Activity 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\obj\Debug\Activity_8.ActivityForm.resources
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\obj\Debug\Activity_8.Properties.Resources.resources
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\obj\Debug\Activity 8.csproj.GenerateResource.cache
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\obj\Debug\Activity 8.csproj.CoreCompileInputs.cache
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\obj\Debug\Activity 8.csproj.CopyComplete
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\obj\Debug\Activity 8.exe
+C:\Users\Dusty4G\source\repos\Activity 8\Activity 8\obj\Debug\Activity 8.pdb
